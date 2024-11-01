@@ -17,8 +17,3 @@
 
 - [ ] VRgaming
   - 虛擬實境遊戲設計專案資料夾
-
-
-## Folder Tree
-
-![Folder Tree](./Image/FolderTree.png)
