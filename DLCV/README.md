@@ -1,9 +1,9 @@
-# 電腦視覺與應用期中專案說明
+# 深度學習應用於電腦視覺專案說明
 In this project, I organize a process by using image segmentation model to reconstruct industrial equipment in a virtual environment, this innovative approach allows us to create virtual repre-sentations of equipment with textures derived from the real world. While the technology is still progressing towards real-time mapping, it presents a promising solution for accurate texture re-construction. The significance of this project extends beyond not only visual fidelity, but also offers substantial benefits in terms of environmental sustainability[1], operational efficiency[2], and logistical simplicity.
 Keywords: Texture Mapping, Real-Time Rendering, Salient Object Detection, 3D Visualization, Virtual Reality.
 
 
-# Midterm Project Source
+# Project Source
 
 - [ ]  Code Scripts
 
@@ -15,7 +15,7 @@ Keywords: Texture Mapping, Real-Time Rendering, Salient Object Detection, 3D Vis
 
 - [ ]  Implementation Description
 
-  - Report： [`R12522636_Real-Time Texture Mapping of an Industrial Equipment.pdf`](https://github.com/WuRobber/CVMaterial/blob/main/DLCV/R12522636_Real-TimeTextureMappingofanIndustrialEquipment.pdf)
+  - Report： [`R12522636_Real-Time Texture Mapping of an Industrial Equipment.pdf`](https://github.com/WuRobber/CVMaterial/blob/main/DLCV/R12522636_Real-Time%20Texture%20Mapping%20of%20an%20Industrial%20Equipment.pdf)
 
 - [ ]  Blender texture mapping 
 
