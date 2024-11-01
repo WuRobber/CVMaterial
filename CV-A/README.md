@@ -1,6 +1,6 @@
 # 電腦視覺與應用期中專案說明
 The midterm project is to simulate the scenario of 3D scanning device based on a known structure. In the virtual environment, there is one 3D object in a cubic frame which is 200 mm in width. We assume there is one parallel light (such as the sun) whose emitting direction is parallel to the side plane of this cube. The given images were rendering by insert one rod in front of the light. Therefore, the cast shadows will be the intersection of objects and a plane, which looks like the following figure
-![Figure](./Image/CV-A_src1.png)
+![Figure](../Image/CV-A_src1.png)
 
 
 ---
