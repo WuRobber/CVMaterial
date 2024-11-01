@@ -16,9 +16,3 @@
 # Download Unity Project
 
 - [Download from Google Drive](https://drive.google.com/file/d/1JDyo_FikKu33wSnqZrBXIYDo1v0kwmN3/view?usp=sharing)
-
----
-
-# Lecture Material(Read only)
-
-- [WorkShop_Unity04_VRAppliacations](https://docs.google.com/presentation/d/1XT6bzr8kU1FbFSrkfu-mAvk5ctWBseH_/edit?usp=sharing&ouid=103139863011647393257&rtpof=true&sd=true)
