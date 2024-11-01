@@ -19,7 +19,6 @@ The midterm project is to simulate the scenario of 3D scanning device based on a
 
 - [ ]  For more implementation detail, please refer to [MidtermProject](https://github.com/WuRobber/CVMaterial/blob/main/CV-A/MidtermProject) folder. 
 
----
 --- 
 --- 
 
