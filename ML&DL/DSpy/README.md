@@ -1,10 +1,13 @@
-# 程式設計與資料科學導論專案
-本專題的研究旨在探討機器學習模型和卷積神經網路是否能透過不同人臉五官特徵辨別性取向，進而提取性取向的相關資訊探索面部形態、表情、修飾風格與性取向之間的關係，以支持性取向的產前激素理論(Wang, Y., & Kosinski, M ,2017)。在進行研究的同時，我們強調對隱私和安全的考量，因此我們的研究成果將以百分比的方式呈現使用者可能喜歡男性或喜歡女性的機率，並絕不會採用任何帶有歧視性的方式進行分類，這種取向的目的確保我們的研究不會侵犯個人隱私，同時維護研究的專業和倫理標準。
+# 🚀 以人臉五官預測性取向
 
----
+- 此專案為程式設計與資料科學導論課程開發，包含 **資料採集**、**資料預處理** 以及 **深度學習人臉分類**，因與其他人共同開發，現已合併至 [DSPY_Final](https://github.com/WuRobber/DSPY_Final)，請至該 repo 參考最新內容！  
 
-# GitHub
 
-- [Read more from github](https://github.com/WuRobber/DSPY_Final.git)
+🔗 **[點擊這裡前往](https://github.com/WuRobber/DSPY_Final)** 以獲取最新的技術文件與程式碼！
+
+
+## 🎥 範例展示影片
+[![以人臉五官預測性取向](https://drive.google.com/thumbnail?id=1RsYpgDCqkFh2zJ6fjGJa4gUuAtk_49cp)](https://drive.google.com/file/d/1RsYpgDCqkFh2zJ6fjGJa4gUuAtk_49cp/view)
+
 
 

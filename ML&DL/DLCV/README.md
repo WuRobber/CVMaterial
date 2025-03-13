@@ -1,28 +1,36 @@
-# 深度學習應用於電腦視覺專案說明
-In this project, I organize a process by using image segmentation model to reconstruct industrial equipment in a virtual environment, this innovative approach allows us to create virtual repre-sentations of equipment with textures derived from the real world. While the technology is still progressing towards real-time mapping, it presents a promising solution for accurate texture re-construction. The significance of this project extends beyond not only visual fidelity, but also offers substantial benefits in terms of environmental sustainability[1], operational efficiency[2], and logistical simplicity.
-Keywords: Texture Mapping, Real-Time Rendering, Salient Object Detection, 3D Visualization, Virtual Reality.
+# 深度學習應用於電腦視覺專案
 
+在這個專案中，我使用影像分割模型在虛擬環境中用來展示工業設備，此方法使我們能夠創建設備的虛擬表示，並從現實世界中獲得紋理。雖然該技術仍在向即時映射發展，但它已展示出在精確紋理重建方面的潛力。此專案的意義不僅在於視覺真實性，還帶來可觀的環境可持續性、運營效率和物流簡化等好處。
 
-# Project Source
+**關鍵詞**：紋理映射、即時渲染、顯著物體檢測、3D 視覺化、虛擬實境
 
-- [ ]  Code Scripts
+---
 
-  - Main： [`main.ipynb`](https://github.com/WuRobber/CVMaterial/blob/main/DLCV/main.ipynb)
+## 📂 專案資源
 
-  - Camera Calibration： [`main.ipynb`](https://github.com/WuRobber/CVMaterial/blob/main/DLCV/cameracalibration.ipynb)
-  
-  - Main code is used for real-time video stream processing, and the camera calibration code is used for camera calibration. And the [CameraCalibration_srcdata](https://github.com/WuRobber/CVMaterial/blob/main/DLCV/CameraCalibration_srcdata) folder shows the source images and the camera calibration result.
+### 🔹 **程式碼腳本**  
+- **主要程式碼：**  
+  - [`main.ipynb`](https://github.com/WuRobber/CVMaterial/blob/main/DLCV/main.ipynb)  
+    用於即時影像流處理的主程式碼。
 
-- [ ]  Implementation Description
+- **相機校正程式：**  
+  - [`cameracalibration.ipynb`](https://github.com/WuRobber/CVMaterial/blob/main/DLCV/cameracalibration.ipynb)  
+    用於相機校正的程式碼。  
+    - [CameraCalibration_srcdata](https://github.com/WuRobber/CVMaterial/blob/main/DLCV/CameraCalibration_srcdata) 資料夾中包含原始影像和相機校正結果。
 
-  - Report： [`R12522636_Real-Time Texture Mapping of an Industrial Equipment.pdf`](https://github.com/WuRobber/CVMaterial/blob/main/DLCV/R12522636_Real-Time%20Texture%20Mapping%20of%20an%20Industrial%20Equipment.pdf)
+### 🔹 **實現描述**  
+- **報告：**  
+  - [`R12522636_Real-Time Texture Mapping of an Industrial Equipment.pdf`](https://github.com/WuRobber/CVMaterial/blob/main/DLCV/R12522636_Real-Time%20Texture%20Mapping%20of%20an%20Industrial%20Equipment.pdf)  
+    這份報告詳細介紹了紋理映射技術和工業設備的應用實例。
 
-- [ ]  Blender texture mapping 
+### 🔹 **Blender 紋理映射**  
+- **Blender 檔案：**  
+  - [`BlenderFBX.fbx`](https://github.com/WuRobber/CVMaterial/blob/main/DLCV/BlenderFBX.fbx)  
+    用於紋理映射的 Blender 模型文件。
 
-    - Blender File： [`BlenderFBX.fbx`](https://github.com/WuRobber/CVMaterial/blob/main/DLCV/BlenderFBX.fbx)
+### 🔹 **Unity 應用結果**  
+- **Unity 專案：**  
+  - [`UnityAsset`](https://github.com/WuRobber/CVMaterial/blob/main/DLCV/UnityAsset)  
+    用於展示紋理映射在 Unity 環境中的應用檔案。
 
-- [ ]  Unity employ result
-
-    - Unity Project： [`UnityAsset`](https://github.com/WuRobber/CVMaterial/blob/main/DLCV/UnityAsset)
-
-
+---
