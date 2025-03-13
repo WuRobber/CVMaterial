@@ -1,18 +1,16 @@
-## 📌 期末競賽：服飾類別識別  
+## 📌 期中競賽：校舍耐震能力評估  
 
 📢 **競賽說明**  
-本競賽的核心是建立一個高效的 **多分類模型**，能夠在大量服飾圖片中準確分類，並具有良好的泛化能力。評分標準基於：
-- **分類準確度**
-- **模型的穩定性與泛化能力**
+本競賽目標是設計或優化耐震能力評估模型，預測校舍在不同條件下的耐震指標，並確保模型的準確度和穩定性。評分標準著重於：
+- **模型的準確性**
+- **對現場數據的處理能力**
+- **預測結果的可靠性**
 
 
 ### 📂 競賽資源  
 
 - **📜 程式碼**
-  - 🔗 [`Main.ipynb`](https://github.com/WuRobber/CVMaterial/blob/main/ML%26DL/Kaggle/FinalCompetition/Main.ipynb)（模型訓練與預測）  
+  - 🔗 [`Midterm_main.ipynb`](https://github.com/WuRobber/CVMaterial/blob/main/ML%26DL/Kaggle/FinalCompetition/Main.ipynb)（模型訓練與預測）  
 
 - **📄 實作紀錄報告**
-  - 📑 [`final_report.pdf`](https://github.com/WuRobber/CVMaterial/blob/main/ML%26DL/Kaggle/FinalCompetition/final_report.pdf)  
-
----
-
+  - 📑 [`midterm_report.pdf`](https://github.com/WuRobber/CVMaterial/blob/main/ML%26DL/Kaggle/MidtermCompetition/midterm_report.pdf)  
