@@ -16,3 +16,8 @@
 - **座標文件：**  
   - [`R12522636.xyz`](https://github.com/WuRobber/CVMaterial/blob/main/CV/MidtermProject/R12522636.xyz)  
 
+#### 🔹 最終重建結果  
+重建後的 3D 結果如下所示：  
+![Reconstructed Image](../../Image/CV-A_out1.png)  
+
+
