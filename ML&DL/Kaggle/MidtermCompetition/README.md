@@ -9,10 +9,10 @@
 ### 📂 競賽資源  
 
 - **📜 程式碼**
-  - 🔗 [`Main.ipynb`](https://github.com/WuRobber/CVMaterial/blob/main/ML%26DL/ML/FinalCompetition/Main.ipynb)（模型訓練與預測）  
+  - 🔗 [`Main.ipynb`](https://github.com/WuRobber/CVMaterial/blob/main/ML%26DL/Kaggle/FinalCompetition/Main.ipynb)（模型訓練與預測）  
 
 - **📄 實作紀錄報告**
-  - 📑 [`final_report.pdf`](https://github.com/WuRobber/CVMaterial/blob/main/ML%26DL/ML/FinalCompetition/final_report.pdf)  
+  - 📑 [`final_report.pdf`](https://github.com/WuRobber/CVMaterial/blob/main/ML%26DL/Kaggle/FinalCompetition/final_report.pdf)  
 
 ---
 
