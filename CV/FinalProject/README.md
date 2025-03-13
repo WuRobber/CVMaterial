@@ -10,8 +10,9 @@
 5. **結果存儲**：將 `X Y Z RGB` 格式的數據存入 `.xyz` 文件，可透過 MeshLab 可視化點雲。  
 
 #### 🔹 立體影像與點雲可視化  
-![Figure](../Image/CV-A_src2.png)  
-![Figure](../Image/CV-A_src3.png)  
+![Figure](../../Image/CV-A_src2.png)
+![Figure](../../Image/CV-A_src3.png)  
+
 
 ### 📂 期末專案資源  
 #### 🔹 程式碼  
@@ -25,4 +26,4 @@
 - **座標文件：**  
   - [`R12522636.txt`](https://github.com/WuRobber/CVMaterial/blob/main/CV/FinalProject/R12522636.txt)  
 
-📌 **更多細節請參閱**：[FinalProject 資料夾](https://github.com/WuRobber/CVMaterial/blob/main/CV/FinalProject)  
+

@@ -12,7 +12,7 @@
 ### 🎯 期末專案：「在虛擬校園中進行專題發表」  
 學員將應用所學知識，在 VR 環境中進行專案展示，提升 VR 開發實務能力。  
 
-![Figure](..VR/APRI/APRI_src.png)  
+![Figure](APRI_src.jpg)  
 
 ---
 
