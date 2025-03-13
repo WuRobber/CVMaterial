@@ -9,30 +9,30 @@
 
 ## 📌 程式碼腳本  
 ### 🔹 主要程式碼  
-- [`main.ipynb`](https://github.com/WuRobber/CVMaterial/blob/main/DLCV/main.ipynb)  
+- [`main.ipynb`](https://github.com/WuRobber/CVMaterial/blob/main/ML%26DL/DLCV/main.ipynb)  
   - 負責即時影像流處理的主程式碼。  
 
 ### 🔹 相機校正程式  
-- [`cameracalibration.ipynb`](https://github.com/WuRobber/CVMaterial/blob/main/DLCV/cameracalibration.ipynb)  
+- [`cameracalibration.ipynb`](https://github.com/WuRobber/CVMaterial/blob/main/ML%26DL/DLCV/cameracalibration.ipynb)  
   - 用於相機校正的程式碼。  
-  - **相關資源：** [CameraCalibration_srcdata](https://github.com/WuRobber/CVMaterial/blob/main/DLCV/CameraCalibration_srcdata)（包含原始影像與校正結果）
+  - **相關資源：** [CameraCalibration_srcdata](https://github.com/WuRobber/CVMaterial/blob/main/ML%26DL/DLCV/CameraCalibration_srcdata)（包含原始影像與校正結果）
 
 ---
 
 ## 📌 實作細節  
 ### 🔹 報告  
-- [`R12522636_Real-Time Texture Mapping of an Industrial Equipment.pdf`](https://github.com/WuRobber/CVMaterial/blob/main/DLCV/R12522636_Real-Time%20Texture%20Mapping%20of%20an%20Industrial%20Equipment.pdf)  
+- [`R12522636_Real-Time Texture Mapping of an Industrial Equipment.pdf`](https://github.com/WuRobber/CVMaterial/blob/main/ML%26DL/DLCV/R12522636_Real-Time%20Texture%20Mapping%20of%20an%20Industrial%20Equipment.pdf)  
   - 詳細介紹了紋理映射技術與工業設備應用。
 
 ---
 
 ## 📌 3D 紋理映射與應用  
 ### 🔹 Blender 紋理映射  
-- [`BlenderFBX.fbx`](https://github.com/WuRobber/CVMaterial/blob/main/DLCV/BlenderFBX.fbx)  
+- [`BlenderFBX.fbx`](https://github.com/WuRobber/CVMaterial/blob/main/ML%26DL/DLCV/BlenderFBX.fbx)  
   - 用於紋理映射的 Blender 模型文件。
 
 ### 🔹 Unity 應用結果  
-- [`UnityAsset`](https://github.com/WuRobber/CVMaterial/blob/main/DLCV/UnityAsset)  
+- [`UnityAsset`](https://github.com/WuRobber/CVMaterial/blob/main/ML%26DL/DLCV/UnityAsset)  
   - 展示紋理映射在 Unity 環境中的應用。
 
 ---

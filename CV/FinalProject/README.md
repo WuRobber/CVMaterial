@@ -27,3 +27,6 @@
   - [`R12522636.txt`](https://github.com/WuRobber/CVMaterial/blob/main/CV/FinalProject/R12522636.txt)  
 
 
+#### 🔹 最終重建結果  
+重建後的 3D 結果如下所示：  
+![Reconstructed Image](../../Image/CV-A_out2.png)  
