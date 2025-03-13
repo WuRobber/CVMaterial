@@ -16,7 +16,7 @@
 人工智慧技術在 **智慧工廠** 的應用。  
 
 📌 **相關專案**
-- [📡 **基於物聯網的智慧缺陷檢測與機械手臂分類系統**](https://github.com/Yue1230/IoT_project)  
+- [📡 **基於物聯網的智慧缺陷檢測與機械手臂分類系統**](https://github.com/WuRobber/CVMaterial/tree/main/AIoT)  
 
 ---
 
