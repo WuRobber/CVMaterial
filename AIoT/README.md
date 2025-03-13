@@ -6,5 +6,5 @@
 🔗 **[點擊這裡前往](https://github.com/Yue1230/IoT_project)** 以獲取最新的技術文件與程式碼！
 
 
-## 🎥 範例展示影片
+## 🎥 範例影片
 [![基於物聯網的智慧缺陷檢測與機械手臂分類系統](https://img.youtube.com/vi/e7WFpjZwMZA/maxresdefault.jpg)](https://youtu.be/e7WFpjZwMZA)
