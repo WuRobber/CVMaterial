@@ -10,7 +10,7 @@
 ### 📂 競賽資源  
 
 - **📜 程式碼**
-  - 🔗 [`Midterm_main.ipynb`](https://github.com/WuRobber/CVMaterial/blob/main/ML%26DL/Kaggle/MidtermCompetition/Main.ipynb)（模型訓練與預測）  
+  - 🔗 [`Midterm_main.ipynb`](https://github.com/WuRobber/CVMaterial/blob/main/ML%26DL/Kaggle/MidtermCompetition/Midterm_main.ipynb)（模型訓練與預測）  
 
 - **📄 實作紀錄報告**
   - 📑 [`midterm_report.pdf`](https://github.com/WuRobber/CVMaterial/blob/main/ML%26DL/Kaggle/MidtermCompetition/midterm_report.pdf)  
