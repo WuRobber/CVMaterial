@@ -14,3 +14,7 @@
 
 - **📄 實作紀錄報告**
   - 📑 [`midterm_report.pdf`](https://github.com/WuRobber/CVMaterial/blob/main/ML%26DL/Kaggle/MidtermCompetition/midterm_report.pdf)  
+
+---
+如欲進一步了解競賽背景，可參考 Kaggle 競賽頁面：  
+🔗 **[Kaggle 競賽連結 - 校舍耐震評估](https://www.kaggle.com/competitions/2023-introduction-to-mldl-midterm-competetion/leaderboard)**  
